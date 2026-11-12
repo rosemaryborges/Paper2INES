@@ -1,0 +1,17 @@
+
+# Dados da pesquisa
+/dados/
+/resultados/
+
+# Códigos dos estudantes
+/src/analise/visualizacao/*.csv
+
+# HTML 
+/src/analise/visualizacao/INES_validador_trajetorias.html
+
+# Ficheiros java compilados
+/bin/
+*.class
+
+# Ficheiros do sistema
+.DS_Store
